@@ -13,7 +13,7 @@ The models used in the assignments are Random Forest Classifier and Decision Tre
 
     a.	Using pandas the dataset file is read and converted into dataframe for further processing.
     b.	With the help of pandas inbuilt function ‘dtypes’, ‘head()’, and ‘describe()’, the dataset is explored and the column datatype, sample of data and description of the    dataset is presented, which illustrates the data into depth.
-    c.	A label encoder is used for textual data in the dataset and converts all the textual data into numeric data. Label encoder converts into unique numeric value for a       unique textual data. For example, sex – male and female would be converted into 1 and 0 using label encoder. Any descriptive texts in the dataset are converted                   using TF-IDF Vectorizer.
+    c.	A label encoder is used for textual data in the dataset and converts all the textual data into numeric data. Label encoder converts into unique numeric value for a unique textual data. For example, sex – male and female would be converted into 1 and 0 using label encoder. Any descriptive texts in the dataset are converted using TF-IDF Vectorizer.
     d.	Using seaborn and matplotlib, the bar plot is plotted.
 
   iii.	Machine Learning Model:
